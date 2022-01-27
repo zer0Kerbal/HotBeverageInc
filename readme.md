@@ -23,9 +23,9 @@ Adds Agent, Flags, and Configs for Kerbal Space Program
 
 By [`zer0Kerbal`][LINK:zer0Kerbal], original Hot Beverages Inc by [`ph34rb0t`][LINK:ph34rb0t]  
 
-
+<!--
 <img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
-
+-->
 
 ### Help Wanted:  
 
