@@ -23,9 +23,10 @@ Adds Agent, Flags, and Configs for Kerbal Space Program
 
 By [`zer0Kerbal`][LINK:zer0Kerbal], original Hot Beverages Inc by [`ph34rb0t`][LINK:ph34rb0t]  
 
-<!--
-<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
--->
+<!-- <img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> -->
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/img/HeroLogo_1920x1920.png" alt="Hot Beverages Inc" width="50%" height="50%">
+
 
 ### Help Wanted:  
 
@@ -102,7 +103,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Original (0) - Author: [`@ph34rb0t`][LINK:ph34rb0t]
 
-> [Thread][MOD:org:thread]  - Download: [Dropbox][MOD:org:download] - Source: [Dropbox][MOD:org:source]
+> [Thread][MOD:org:thread]  - Download: [Dropbox][MOD:org:download] - Source: [Dropbox][MOD:org:source]  
 > License: [![License CC BY-NC-ND 3.0][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
@@ -128,12 +129,12 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 [LIC:org:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-ND 3.0"
 [LIC:org:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 3.0"
-[LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/json/license.json "Creative Commons"
+[LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/json/license.json "CC BY-NC-ND 3.0"
 
 <!--- license -->
 [LIC:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-ND 3.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 3.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/json/license.json "Creative Commons"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/json/license.json "CC BY-NC-ND 3.0"
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
