@@ -17,7 +17,7 @@ updated: 22 Jan 2022 -->
 
 # Hot Beverages Inc (HBI)
 
-Adds Agent, Flags, and Configs for Kerbal Space Program
+Adds Hot Beverages Inc Agent, Flags, and common config files used in all Hot Beverages, Inc add-ons for Kerbal Space Program.
 
 
 
