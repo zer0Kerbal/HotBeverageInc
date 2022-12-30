@@ -28,22 +28,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `Nazari` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Navari/KerbalMaterialsCorp`
+  * Delete `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
 * Extract the package's `Nazari` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/Nazari` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/Navari/KerbalMaterialsCorp`
+  * you should end up with `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Navari/KerbalMaterialsCorp`
+  * Delete `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/Navari/KerbalMaterialsCorp`
+  * you should end up with `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
 
 ## The following file layout must be present after installation
 
@@ -51,7 +51,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [Nazari]
-      + [KerbalMaterialsCorp]
+      + [HotBeveragesInc]
         + [Agencies]
           ...
         + [Compatibility]
@@ -66,7 +66,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * Attributions.htm
         * changelog.md
         * GP:2-0.txt
-        * KerbalMaterialsCorp.version
+        * HotBeveragesInc.version
         * ManualInstallation.htm
         * readme.htm
         ...
