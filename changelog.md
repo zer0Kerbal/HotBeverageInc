@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Hot Beverage Inc (HBI)                                           |
+| modName    | Hot Beverage Inc (HBI)                                            |
 | ---------- | ----------------------------------------------------------------- |
-| license    | ???                                                               |
-| author     | Ph34rb0t and zer0Kerbal                                           |
+| license    | CC BY-ND 4.0                                                      |
+| author     | zer0Kerbal, inspired by Ph34rb0t                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/) |
-| github     | (https://github.com/zer0Kerbal/HotBeverageInc)                   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc)      |
+| github     | (https://github.com/zer0Kerbal/HotBeverageInc)                    |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc)       |
 | spacedock  | (https://spacedock.info/mod/3030)                                 |
-| ckan       | HotBeverageInc                                                   |
+| ckan       | HotBeverageInc                                                    |
 
 ## Version 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
 
