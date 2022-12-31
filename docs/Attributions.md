@@ -6,7 +6,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 Attributions.md v1.0.7.1
-Hot Beverages Inc (HBI)
+Hot Beverage Inc (HBI)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -14,7 +14,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Hot Beverages Inc (HBI)
+# Hot Beverage Inc (HBI)
 
 [Home](./index.md)
 
@@ -23,14 +23,13 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/62013-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Nazari1382</a> for inspiring <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/211123-*/" alt="Hot Beverages Inc (HBI)"> Hot Beverages Inc (HBI) addon</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/4291-*/"><img border="0" alt="Ph34rb0t" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Ph34rb0t</a> for inspiring the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/" alt="Hot Beverage Inc (HBI)"> Hot Beverage Inc (HBI) addon</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/62013-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Nazari1382</a>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
 </ul>
 
@@ -58,9 +57,9 @@ updated: 03 Jun 2022
 ### Art Asset(s)
 
 <ul>
-  <li>Flags<li>
+  <li>Logo</li>
   <ul>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/62013-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Nazari1382</a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/4291-*/"><img border="0" alt="Ph34rb0t" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > Ph34rb0t</a>
   </ul>
 </ul>
 
