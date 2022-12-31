@@ -5,17 +5,17 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.1.8.1
-Hot Beverages Inc (HBI)
+Hot Beverage Inc (HBI)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Hot Beverages Inc (HBI)
+# Hot Beverage Inc (HBI)
 
 [Home](./index.md)
 
-Agent, flags and common configs for Lunatic Aeronautics.
+Agent, flags and common configs for Hot Beverage addons.
 
 ## Installation Instructions
 
@@ -25,33 +25,33 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `Nazari` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `HotBeverage` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
-* Extract the package's `Nazari` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/Nazari` --> `<KSP_ROOT>/GameData/`
+  * Delete `<KSP_ROOT>/GameData/HotBeverage/HotBeverageInc`
+* Extract the package's `HotBeverage` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/HotBeverage` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
+  * you should end up with `<KSP_ROOT>/GameData/HotBeverage/HotBeverageInc`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
+  * Delete `<KSP_ROOT>/GameData/HotBeverage/HotBeverageInc`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/Navari/HotBeveragesInc`
+  * you should end up with `<KSP_ROOT>/GameData/HotBeverage/HotBeverageInc`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [Nazari]
-      + [HotBeveragesInc]
+    + [HotBeverage]
+      + [HotBeverageInc]
         + [Agencies]
           ...
         + [Compatibility]
@@ -64,9 +64,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         * #.#.#.#.htm
         * Attributions.htm
+        * CC-BY-ND-4.0.txt
         * changelog.md
-        * GP:2-0.txt
-        * HotBeveragesInc.version
+        * HotBeverageInc.version
         * ManualInstallation.htm
         * readme.htm
         ...
