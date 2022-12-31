@@ -152,7 +152,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 #### Author: [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [GitHub][MOD:0:source]  
+> Forum: [Thread][MOD:forum] - Download: [CurseForge][CURSFG:url] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] [![License][LIC:log]][LIC:url]
 > ##### Disclaimer(s)
 >
@@ -288,4 +288,4 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
