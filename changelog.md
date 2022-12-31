@@ -34,9 +34,9 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #11 - English <en-us.cfg>
-* closes #10 - Localization - Master
 * closes #9 - Create Localization directory and contents
+* updates #10 - Localization - Master
+* closes #11 - English <en-us.cfg>
 
 ### Status 0.9.99.0
 
