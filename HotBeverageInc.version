@@ -25,6 +25,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME" :		 "HotBeverageInc",
-		"DIRECTORY" :	 "HotBeverages/HotBeverageInc"
+		"DIRECTORY" :	 "HotBeverage/HotBeverageInc"
 	}
 }
