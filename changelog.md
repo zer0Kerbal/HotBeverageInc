@@ -20,8 +20,12 @@
 ### Creation by zer0Kerbal
 
 * Create
-  * Flags
   * Agent
+  * Flags
+  * Hero Logo/Cover
+* closes #7 - Create GitHub Pages
+* closes #8 - Create HeroLogo.png
+* closes #28 - Create Agency
 
 ### Localization 0.9.99.0
 
@@ -30,12 +34,16 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #9 - English <en-us.cfg>
-* updates #8 - Localization - Master
-* closes #7 - Create Localization directory and contents
+* closes #11 - English <en-us.cfg>
+* closes #10 - Localization - Master
+* closes #9 - Create Localization directory and contents
 
 ### Status 0.9.99.0
 
 * Issues
+  * closes #3 - Hot Beverage Inc (HBI) 0.9.99.0-prerelease `<Scalding Hot Parts are our Business>` edition
+  * closes #4 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #5 - 1.1.99.0 Create Documentation
+  * closes #6 - 1.1.99.0 Create Social Media Presence
 
 ---
