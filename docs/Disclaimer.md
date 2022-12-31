@@ -5,13 +5,13 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Disclaimer.md v1.0.1.0
-Hot Beverages Inc (HBI)
+Hot Beverage Inc (HBI)
 created: 01 Apr 2022
 updated: 21 Jul 2022
 
 based upon work by godarklight -->
 
-# Hot Beverages Inc (HBI)
+# Hot Beverage Inc (HBI)
 
 [Home](/index.md)
 
