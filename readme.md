@@ -19,6 +19,53 @@ an original creation by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/HotBeveragesInc/master/img/HeroLogo_1920x1920.png" alt="HotBeveragesInc Hero" width="72%" height="72%">
 
+### Preamble by [Ph34rb0t][ph34rb0t]
+
+#### Part I
+
+> [Hot Beverage Inc][HBI] is back after yet another catastrophic tea spill in one of our factories! (This time, however, the chief engineer got demoted to chief janitor.)
+>
+> We finally managed to get our most beloved products back into production again. Same prices, same look, more SCIENCE!
+>
+> Due to yet another catastrophic unfortunate incident at our factory involving questionable organic material, we were forced to relocate our business to a different, but much more promising location (Shantytown, that run-down shop with the familiar Cup logo).
+>
+> Long story short, the cleanup involved lots and lots of pyrotechnic work and biologically deviant Kerbals from the cleaup (man, that material was really, REALLY questionable) had to be sent on a glorious exploration mission to Kerbol (helmets of to you, you magnificent mutated specimen!).
+>
+> But we wouldn't be [HBI][HBI] if we didn't put a positive face on dire situations!
+>
+> Our products are now 0.01% organic - as we're not taking any risks this time - and available with a huge discount! Pay for one part and get them all!
+>
+> Where, you're asking?!
+>
+> Take a left at the place with the "Biohazard!" signs plastered over it, go straight down the road, take a right and follow NovaSilisko Ave. for 12 kilometers. Don't let >the run down houses fool you! We just wanted to be the first to claim this up-and-coming part of town for prosperous business development.
+>
+> If you run into the "Cup" sign, you're there!
+>
+> [(Map Directions)][GITHUB:url]
+>
+> Come pay us a visit and enjoy the most sterile parts available on Kerbin!
+>
+> Pleeeeeease!
+>
+> [Portfolio:](#suggests)
+>
+> [(We honor traditions as change is an evil thing!)][GITHUB:url]
+
+#### Part II
+
+> Due to advanced laziness and the unexpected disappearance of the Spaceport (really funny, guys...now bring it back!), [Hot Beverage Inc][HBI]. presents the all-in one, ultragalactic, teabaggingly glorious parts pack!
+> Does it only contain the legendarily bad [**Kerturn IB part set**][KAT]? Noooooo! Next to the head-turning, heart-burning and meeting-adjourning [Kerturn][KAT], you'll also get our "three size fits almost everyone (except your mom)" [**sensor**][SENS] and [**fuel cell modules**][SERV]!
+>
+> That's right! Sensor and fuel cell modules with a 1.25 or a 2.5 or a whopping 3.75m diameter! With these two modules combined, you can do more science than a grad student! Awesome! To keep the suspense up until the last second, we're not even including promotional images!
+>
+> But we've got one for the [Kerturn][KAT] from a tasteful photoshoot from the last year (we're keeping the nudes though...for science...reasons)!
+>
+> See these curves?! We do, and we love 'em!
+>
+> To keep even more of the suspense up, we've randomly shuffled the pricing, so your rocket construction sessions in 0.24 are just as intense as a really, intentionally intense moment! Guatranteed! Or not!
+>
+> **If you decide to get a taste of some Hot Beverage Inc. goodness (we know you want to!), download the archive and unzip it into your KSP's "GameData" folder.**
+
 ### See more
 
 >* [GitHub Pages][MOD:pages]
@@ -219,7 +266,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
 
-[ph34rb0t]: https://forum.kerbalspaceprogram.com/index.php?/profile/62013-*/ "Ph34rb0t"
+[ph34rb0t]: https://forum.kerbalspaceprogram.com/index.php?/profile/4291-*/ "Ph34rb0t"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 ---
