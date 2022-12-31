@@ -8,10 +8,10 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: HotBeveragesInc
+  name: HotBeverageInc
 
   # A short description of the repository that will show up on GitHub
-  description:  Agency, flag(s) and common configs for Hot Beverages Inc (HBI). For Kerbal Space Program.
+  description:  Agency, flag(s) and common configs for Hot Beverage Inc (HBI). For Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/
