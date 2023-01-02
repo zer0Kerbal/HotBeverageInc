@@ -102,8 +102,8 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [Hot Beverage Inc (HBI)][HBI]
   * [Irradiated Parts (HBEx)][HBEx] *experimental parts*
-  * [HBFuelCells (FUEL)][FUEL] *Fuel Cells*
-  * [Radioisotope Thermoelectric Generators (RTG)][RTG] *Radioisotope Thermoelectric Generators*
+  * [FuelCells (FUEL)][FUEL]
+  * [Radioisotope Thermoelectric Generators (RTG)][RTG]
   * [Kerturn (KAT)][KAT]
   * [Sensor Modules (SENS)][SENS]
   * [Service Modules (SERV)][SERV]
@@ -123,14 +123,14 @@ or [![CKAN][ckan:img]][ckan:url]
 ### Supports
 
 * [Irradiated Parts (HBEx)][HBEx]
-* [HBFuelCells (FUEL)][FUEL] Stack Fuel Cells
-* [Radioisotope Thermoelectric Generators (RTG)][RTG] Radioisotope Thermoelectric  Generators
+* [FuelCells (FUEL)][FUEL]
+* [Radioisotope Thermoelectric Generators (RTG)][RTG]
 * [Kerturn (KAT)][KAT]
 * [Sensor Modules (SENS)][SENS]
 * [Service Modules (SERV)][SERV]
-* Either
-  * [Module Manager /L][mml] [^3]
-  * [Module Manager][mm] [^3]
+* Either [^3]
+  * [Module Manager /L][mml]
+  * [Module Manager][mm]
 
 ### Tags
 
@@ -220,12 +220,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 
 [HBI]: https://forum.kerbalspaceprogram.com/index.php?/topic/208353- "Hot Beverage Inc (HBI)"
-[FUEL]: https://github.com/zer0Kerbal/HBFuelCells "HBFuelCells (FUEL)"
 [HBEx]: https://github.com/zer0Kerbal/IrradiatedParts "Irradiated Parts (HBEx)"
 [KAT]: https://github.com/zer0Kerbal/Kerturn "Kerturn (KAT)"
 [RTG]: https://github.com/zer0Kerbal/HBRTG "Radioisotope Thermoelectric Generators (RTG)"
-[SENS]: https://github.com/zer0Kerbal/HBSensorModules "Sensor Modules (SENS)"
-[SERV]: https://github.com/zer0Kerbal/HBServiceModules "Service Modules (SERV)"
+[FUEL]: https://forum.kerbalspaceprogram.com/index.php?/topic/211277-*/ "Fuel Cells (FUEL)"
+[SENS]: https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/  "Sensor Modules (SENS)"
+[SERV]: https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/  "Service Modules (SERV)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
